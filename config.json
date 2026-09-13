@@ -10,44 +10,44 @@
     {
       "id": 1,
       "title": "بنر شماره ۱: تخفیف ویژه اشتراک",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKY07-BwUQgTkpO_VteXa3LBG99X8iIL1hawgbv5Owg&s=10",
-      "target_url": "https://example.com/offer1",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
+      "target_url": "https://t.me/AppFilmBaran",
       "is_active": true
     },
     {
       "id": 2,
       "title": "بنر شماره ۲: کانال تلگرام ما",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FLKQ-RtEMarjXTDqRgnufSqAXYJnoaV8uHorciLkYw&s=10",
-      "target_url": "https://t.me/your_channel",
-      "is_active": true
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
+      "target_url": "https://t.me/AppFilmBaran",
+      "is_active": false
     },
     {
       "id": 3,
       "title": "بنر شماره ۳: آموزش اتصال پرسرعت",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSus0S-ETyWQvYPmHTZ6MBwkrlvv9QKTj4VFeJA5GlyrA&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
       "target_url": "https://example.com/guide",
-      "is_active": true
+      "is_active": false
     },
     {
       "id": 4,
       "title": "بنر شماره ۴: سرورهای اختصاصی اروپا",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_5n77kVRcO1he_nMuB0IrlrxzV3b8_S85nSSnc0wbQ&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
       "target_url": "https://example.com/servers",
-      "is_active": true
+      "is_active": false
     },
     {
       "id": 5,
       "title": "بنر شماره ۵: پشتیبانی آنلاین",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdCpCK3dJHRV0_Ty0Si878O05ZXqbpI7AiynbZAhK2nZLCcJff6X1bVMN&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
       "target_url": "https://t.me/your_support",
-      "is_active": true
+      "is_active": false
     },
     {
       "id": 6,
       "title": "بنر شماره ۶: دعوت از دوستان",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzg9kgUJrsOykBDYebxECRIWxVu6LFZHHXHAMb2HvUpw&s=10",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrLPBl6xr2Rp_kCzrMYOt2qcGnaxjjJQ0qKXtsp_wjSbTGjsDmkonRw5&s=10",
       "target_url": "https://example.com/invite",
-      "is_active": true
+      "is_active": false
     }
   ]
 }
