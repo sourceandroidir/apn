@@ -1,7 +1,7 @@
 {
   "app_update": {
     "is_force_update": false, 
-    "latest_version_code": 26,
+    "latest_version_code": 25,
     "latest_version_name": "2.1.0",
     "update_message": "نسخه جدید برنامه منتشر شد. لطفاً برای عملکرد بهتر برنامه را آپدیت کنید.",
     "download_url": "https://github.com/USERNAME/REPOSITORY/releases/latest"
