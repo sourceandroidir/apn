@@ -1,6 +1,6 @@
 {
   "app_update": {
-    "is_force_update": false,
+    "is_force_update": true,
     "latest_version_code": 26,
     "latest_version_name": "2.1.0",
     "update_message": "نسخه جدید برنامه منتشر شد. لطفاً برای عملکرد بهتر برنامه را آپدیت کنید.",
