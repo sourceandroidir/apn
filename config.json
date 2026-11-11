@@ -1,10 +1,10 @@
 {
   "app_update": {
     "is_force_update": false, 
-    "latest_version_code": 35,
-    "latest_version_name": "2.7.0",
+    "latest_version_code": 42,
+    "latest_version_name": "2.8.0",
     "update_message": "نسخه جدید برنامه منتشر شد.رفع مشکل اتصال همراه اول و ایرانسل و.. اضافه شدن پروتکل جدید برای نت ملی .",
-    "download_url": "https://github.com/AppBaran/BaranVpn/releases/download/V.2.7.0/Baran.vpn.v.2.7.0.All.device.apk"
+    "download_url": "https://github.com/AppBaran/BaranVpn/releases/download/v.2.8.0/Baran.vpn.v.2.8.0.All.device.apk"
   },   
   "banners": [
     {
