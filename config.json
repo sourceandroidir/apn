@@ -6,6 +6,11 @@
     "update_message": "نسخه جدید برنامه منتشر شد.رفع مشکل اتصال همراه اول و ایرانسل و.. اضافه شدن پروتکل جدید برای نت ملی .",
     "download_url": "https://github.com/AppBaran/BaranVpn/releases/download/v.2.8.0/Baran.vpn.v.2.8.0.All.device.apk"
   },   
+  "mirror_channels": [
+  { "id": "appfilmbaran", "title": "فیلم باران" },
+  { "id": "proxyir01", "title": " پروکسی" },
+  { "id": "proxymtproto", "title": "MTProto" }
+],
   "banners": [
     {
       "id": 1,
