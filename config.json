@@ -12,7 +12,7 @@
       "title": "بنر شماره ۱: تخفیف ویژه اشتراک",
       "image_url": "https://raw.githubusercontent.com/sourceandroidir/apn/refs/heads/main/8eaa2109-d3f9-461f-b636-c68cba52a70b.png",
       "target_url": "https://t.me/AppFilmBaran",
-      "is_active": true
+      "is_active": false
     },
     {
       "id": 2,
