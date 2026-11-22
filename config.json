@@ -8,6 +8,7 @@
   },   
   "mirror_channels": [
   { "id": "appfilmbaran", "title": "فیلم باران" },
+  { "id": "proxyir01", "title": " پروکسی" },
   { "id": "proxymtproto", "title": "MTProto" }
 ],
   "banners": [
