@@ -2,7 +2,7 @@
   "app_update": {
     "is_force_update": false, 
     "latest_version_code": 51,
-    "latest_version_name": "3.0.0",
+    "latest_version_name": "3.1.0",
 "update_message": "🌧️ نسخه 3.0.0 منتشر شد!\n\n📡 افزودن کانال‌های تلگرام بدون فیلترشکن\n⚡ تست دسته‌جمعی MTProto مستقیم از کانال بدون نیاز به کپی کانفیگ\n🚀 تست دسته‌جمعی V2Ray از کانال‌های تلگرام و اتصال به پینگ‌های فعال\n🕵️ ارتقای اسکن Spoof\n🛠️ بهینه‌سازی تنظیمات V2Ray\n⚡ بهینه‌سازی Masque2، WireGuard و WARP با اتصال سریع‌تر\n🎨 تغییرات ظاهری و بهبود رابط کاربری\n📺 اضافه شدن نسخه Android TV\n\n📥 دانلود نسخه جدید از کانال تلگرام AppFilmBaran",  
     "download_url": "https://github.com/AppBaran/BaranVpn/releases/download/v.3.0.0/Baran.vpn.v.3.0.0.All.device.apk"
   },   
